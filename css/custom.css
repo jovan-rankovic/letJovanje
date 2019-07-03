@@ -1,0 +1,76 @@
+.panel-body:not(.two-col) {
+    padding: 0px;
+}
+
+.glyphicon {
+    margin-right: 5px;
+}
+
+.glyphicon-new-window {
+    margin-left: 5px;
+}
+
+.panel-body .radio, .panel-body .checkbox {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.panel-body .list-group {
+    margin-bottom: 0;
+}
+
+.margin-bottom-none {
+    margin-bottom: 0;
+}
+
+.panel-body .radio label, .panel-body .checkbox label {
+    display: block;
+}
+.omb_login {
+ padding: 50px;
+}
+
+.error {
+    color: red;
+}
+
+.close:hover {
+    color: red;
+}
+
+input.hidden {
+    display: none;
+}
+
+#profile-image {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #2b90d9 ;
+}
+
+.profileInfo {
+    font-size: 16px;
+    font-weight:500;
+}
+
+.bot-border {
+    border-bottom: 1px #cccccc solid;
+    margin: 5px 0 5px 0;
+}
+
+#user_img_info {
+    color: #999;
+}
+
+#user_info {
+    color: #2b90d9;
+}
+
+.panel {
+    border-color: #2b90d9;
+}
+
+.vote_info {
+    display: none;
+}

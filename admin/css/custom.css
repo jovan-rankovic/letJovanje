@@ -1,0 +1,16 @@
+.error {
+    color: red;
+}
+
+.info-box {
+    cursor: pointer;
+}
+
+.icon_left {
+     margin-right: 8px;
+}
+
+.go_back {
+    font-style: unset;
+    font-size: 15px;
+}
